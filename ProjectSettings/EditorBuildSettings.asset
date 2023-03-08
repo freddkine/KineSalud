@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Tapa0.unity
+    guid: 2d41822cae283c641b715210fb2410c4
+  - enabled: 1
+    path: Assets/Scenes/Tapa.unity
+    guid: 507c74044a2b9b54fb9a292c47369bfd
+  - enabled: 1
+    path: Assets/Scenes/EjerciciosDeColumnaCervical.unity
+    guid: b73395c8c02492d4282d9f5ace44c708
+  - enabled: 1
+    path: Assets/Scenes/EjerciciosDelComplejoDeHombro.unity
+    guid: 554f525c204f24046b60133dcfceece5
+  - enabled: 1
+    path: Assets/Scenes/EjerciciosDeCodoYMano.unity
+    guid: 85e0ec484a87b8944bf636026b86e860
+  - enabled: 1
+    path: Assets/Scenes/EjerciciosDeColumnaLumbar.unity
+    guid: f25f3a0aff9091f429df3d4a7319e487
+  - enabled: 1
+    path: Assets/Scenes/EjerciciosDeCadera.unity
+    guid: 79fee59fdc3d20640b409624be7ab765
+  - enabled: 1
+    path: Assets/Scenes/EjerciciosDeRodilla.unity
+    guid: 46fe9274a33b4724e888f90930722d37
+  - enabled: 1
+    path: Assets/Scenes/EjerciciosDeTobilloYPies.unity
+    guid: f2b96baedc1793544b99d4024e0a702e
+  - enabled: 1
+    path: Assets/Scenes/QuienesSomos.unity
+    guid: 66f58533e5a89804bb30c929ea7b4fc2
+  - enabled: 1
+    path: Assets/Scenes/NuestrasInstalaciones.unity
+    guid: 3ebd731c9e8e7644baa4369b0296cd98
+  - enabled: 1
+    path: Assets/Scenes/Contacto.unity
+    guid: 4b444883a26568a45a7a52fe5fbb570f
+  - enabled: 1
+    path: Assets/Scenes/ModalidadDeAtencion.unity
+    guid: c73d029452c6afb4c8c003bbbfa88463
+  - enabled: 1
+    path: Assets/Scenes/EnfocadoLaApp.unity
+    guid: c1e5ede1f6b3d934bae7a1f1e95f31e7
+  - enabled: 1
+    path: Assets/Scenes/VirtualBook.unity
+    guid: 6778b87bf160b2c49b1a7baf42c6b05b
+  - enabled: 1
+    path: Assets/Scenes/RealidadAumentadaFotos.unity
+    guid: c8ec8f9cf744a5d40af57f7bcfc15093
+  - enabled: 1
+    path: Assets/Scenes/RealidadVirtualFotos.unity
+    guid: 0b528723e1de27a49ad2562e5ca2b15a
+  - enabled: 1
+    path: Assets/Scenes/AplicacionFotos.unity
+    guid: 560e1b638fe46a4438f853ce59f87ae7
+  - enabled: 1
+    path: Assets/Scenes/PropagandaKinesalud.unity
+    guid: 2e12044b46da76f4c82aca4e3eeac9dc
+  m_configObjects: {}
