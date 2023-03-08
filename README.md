@@ -1,2 +1,2 @@
 # KineSalud
-Aplicación de KineSalud para kinesiología
+Aplicación de KineSalud para kinesiología antofagasta
